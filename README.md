@@ -1,6 +1,6 @@
-Hi, I'm Riyan Ahmed 👋
+# Hi, I'm Riyan Ahmed 👋
 
-💻 Software Engineering Student | AI Developer | Web Developer
+### 💻 Software Engineering Student | AI Developer | Web Developer
 
 I'm a Software Engineering student currently pursuing my diploma at **Aptech**, where I am building a strong foundation in software development, web technologies, and modern development practices.
 
@@ -10,7 +10,7 @@ I'm currently working on real-world projects that combine **web development, AI,
 
 ---
 
- 🚀 What I Do
+## 🚀 What I Do
 
 - 🌐 Build **responsive and interactive websites**
 - 🎨 Create modern and user-friendly web interfaces
@@ -25,9 +25,9 @@ I'm currently working on real-world projects that combine **web development, AI,
 
 ---
 
-🛠️ Technologies & Skills
+## 🛠️ Technologies & Skills
 
-Web Development
+### Web Development
 
 - HTML5
 - CSS3
@@ -35,7 +35,7 @@ Web Development
 - Bootstrap
 - jQuery
 
-🤖 AI & Automation
+### 🤖 AI & Automation
 
 - AI-assisted development
 - AI content generation
@@ -45,7 +45,7 @@ Web Development
 - AI-powered productivity tools
 - Multi-AI workflows
 
-🎯 Currently Learning
+### 🎯 Currently Learning
 
 - Advanced JavaScript
 - Modern Web Development
@@ -57,17 +57,17 @@ Web Development
 
 ---
 
-📂 Projects
+## 📂 Projects
 
 I'm currently working on several **real-world projects** to strengthen my development skills and explore how AI can be integrated into modern software solutions.
 
 Some of my projects will be added here as they reach a presentable stage.
 
- 🚧 More projects coming soon...
+> 🚧 More projects coming soon...
 
 ---
 
-📈 My Goal
+## 📈 My Goal
 
 My goal is to become a **well-rounded Software Engineer and AI Developer** capable of building modern software solutions, intelligent applications, automated workflows, and professional digital experiences.
 
@@ -75,16 +75,16 @@ I'm continuously learning, experimenting, building, and improving. 🚀
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating, building interesting projects, and exploring new technologies.
 
 - 💼 LinkedIn: Coming Soon
 - 🌐 Portfolio: Coming Soon
-- 📧 Email: riyan.aptech@gmail.com
+- 📧 Email: Available on request
 
 ---
 
-⚡ Fun Fact
+### ⚡ Fun Fact
 
-I don't just want to learn technology — I want to **build with it.** 🚀
+> I don't just want to learn technology — I want to **build with it.** 🚀
