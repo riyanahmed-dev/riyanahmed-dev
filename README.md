@@ -16,7 +16,6 @@ I'm currently working on real-world projects that combine **web development, AI,
 - 🎨 Create modern and user-friendly web interfaces
 - ⚡ Develop dynamic experiences using **JavaScript, jQuery & Bootstrap**
 - 🤖 Work with **AI tools and AI-powered development workflows**
-- 🧠 Explore and build **AI agents and automated workflows**
 - 🎬 Create professional **AI-generated videos and digital content**
 - ⚙️ Explore **remote automation and AI-assisted processes**
 - ✨ Experiment with animations and interactive web experiences
