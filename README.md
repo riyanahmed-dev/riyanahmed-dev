@@ -79,9 +79,10 @@ I'm continuously learning, experimenting, building, and improving. 🚀
 
 I'm always interested in learning, collaborating, building interesting projects, and exploring new technologies.
 
-- 💼 LinkedIn: Coming Soon
-- 🌐 Portfolio: Coming Soon
-- 📧 Email: Available on request
+- 💼 LinkedIn: https://www.linkedin.com/in/riyan-ahmed-233816446/?isSelfProfile=true
+- 🌐 Portfolio: https://riyanahmed-devportfolio.netlify.app/#projects
+- 📧 Email: riyan.aptech@gmail.com
+- 🔗 Instagram: https://www.instagram.com/riyanahmed.dev/?hl=en
 
 ---
 
