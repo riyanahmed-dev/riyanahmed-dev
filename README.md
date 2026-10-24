@@ -51,7 +51,6 @@ I'm currently working on real-world projects that combine **web development, AI,
 - Software Engineering Practices
 - AI Development
 - AI Agents & Automation
-- Git & GitHub
 - Building and deploying real-world applications
 
 ---
